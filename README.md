@@ -42,3 +42,12 @@ I am a Junior Data Scientist :detective: from Russia.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+<div id="stats" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreazerKRD&theme=apprentice"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FreazerKRD&theme=apprentice"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreazerKRD&theme=apprentice"/>
+</div>
