@@ -12,6 +12,7 @@
   <a href="https://vk.com/s.sigarev">
     <img src="https://img.shields.io/badge/ВКОНТАКТЕ-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=FreazerKRD&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
