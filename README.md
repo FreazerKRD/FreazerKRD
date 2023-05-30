@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hello therem I'm Stanislav 👋</h1>
+  <h3>Junior Data Scientist from Krasnodar</h3>
+</div>
 
 <!--
 **FreazerKRD/FreazerKRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
