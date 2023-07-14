@@ -26,7 +26,7 @@
 I am a Junior Data Scientist :detective: from Russia.
 - :telescope: I am looking for my first job in the Data Science.
 
-- :seedling: Now at the finish line in training at Yandex Practicum.
+- :seedling: Completed training in Yandex Practicum..
 
 - :zap: In my free time, I am studying ML-Ops and competing on Kaggle.
 
