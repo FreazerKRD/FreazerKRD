@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Stanislav 👋</h1>
-  <h3>Data Analyst from Krasnodar</h3>
+  <h3>DWH Engineer from Krasnodar</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.kaggle.com/freazer">
@@ -23,7 +23,7 @@
 
 ---
 
-I am Data Analyst :detective: from Russia.
+I am DWH Engineer :detective: from Russia.
 - :seedling: Completed training in Yandex Practicum..
 
 - :zap: In my free time, I am studying ML-Ops and competing on Kaggle.
